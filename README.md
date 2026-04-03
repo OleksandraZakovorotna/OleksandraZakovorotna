@@ -1,11 +1,11 @@
-# Hi there, i'm Alex Zakovorotna 👋
+# Hi there, I'm Alex Zakovorotna 👋
 
 ## Junior Frontend Developer 
-💻 Building responsive and adaptive web interfaces
-🌱 Beginner in React with growing hands-on experience
-🔧 Experienced with Git and version control
-🤝 Collaborated in Scrum/Agile team projects
-🚀 Motivated to create efficient, scalable web applications and continuously improve skills
+- 💻 Building responsive and adaptive web interfaces
+- 🌱 Beginner in React with growing hands-on experience
+- 🔧 Experienced with Git and version control
+- 🤝 Collaborated in Scrum/Agile team projects
+- 🚀 Motivated to create efficient, scalable web applications and continuously improve skills
 
 ## 🧰 Tech Stack | HTML • CSS • JavaScript • React |
 
